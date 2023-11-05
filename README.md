@@ -3,6 +3,7 @@
 Welcome to the official GitHub repository for GSResume, a personal resume website by Ghalib Saleem. This repository hosts the source code for my personal website, which showcases my professional journey, skills, and portfolio.
 
 [![GSResume Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=ghalib.dev)](https://www.ghalib.dev/)
+[![GSResume Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=ghalibsaleem.dev)](https://www.ghalibsaleem.dev/)
 
 ## About the Project
 
