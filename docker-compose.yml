@@ -1,0 +1,9 @@
+services:
+  devwesite:
+    image: nginx:latest
+    container_name: resume_server
+    ports:
+      - 49111:80
+    volumes:
+      - ./nginx-html:/usr/share/nginx/html
+    restart: unless-stopped
